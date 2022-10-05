@@ -1,0 +1,15 @@
+/Users/gega/Desktop/QueryPractice/QueryPractice/bin/Debug/net6.0/QueryPractice
+/Users/gega/Desktop/QueryPractice/QueryPractice/bin/Debug/net6.0/QueryPractice.deps.json
+/Users/gega/Desktop/QueryPractice/QueryPractice/bin/Debug/net6.0/QueryPractice.runtimeconfig.json
+/Users/gega/Desktop/QueryPractice/QueryPractice/bin/Debug/net6.0/QueryPractice.dll
+/Users/gega/Desktop/QueryPractice/QueryPractice/bin/Debug/net6.0/QueryPractice.pdb
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.csproj.AssemblyReference.cache
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.AssemblyInfoInputs.cache
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.AssemblyInfo.cs
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.csproj.CoreCompileInputs.cache
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.dll
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/refint/QueryPractice.dll
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.pdb
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/QueryPractice.genruntimeconfig.cache
+/Users/gega/Desktop/QueryPractice/QueryPractice/obj/Debug/net6.0/ref/QueryPractice.dll
